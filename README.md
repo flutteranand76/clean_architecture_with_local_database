@@ -1,4 +1,4 @@
-# demo
+# Clean architecture with hive database
 
 A new Flutter project.
 
